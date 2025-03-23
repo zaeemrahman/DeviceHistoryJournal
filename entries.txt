@@ -1,0 +1,4 @@
+22 March 2025, 6:28 PM:
+I spent the whole day writing this application to track my interactions with this device.
+I will probably write the search function next for this program. To search previous entries. I also want a close function.
+------------------------------

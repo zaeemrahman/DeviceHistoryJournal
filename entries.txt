@@ -2,3 +2,7 @@
 I spent the whole day writing this application to track my interactions with this device.
 I will probably write the search function next for this program. To search previous entries. I also want a close function.
 ------------------------------
+24 March 2025, 6:35 PM:
+I coded the menu system, along with the search function, read function and exit function to my project after a whole day at work.
+Probably update the project on my GutHub repository.
+------------------------------
